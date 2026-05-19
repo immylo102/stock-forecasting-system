@@ -1,7 +1,9 @@
 # Stock Price Forecasting & Decision Support System
 
 ## Overview
-This project demonstrates an end-to-end implementation of a machine learning system for stock price forecasting and decision support.  
+
+
+
 The goal is not only to predict future price trends, but also to translate model outputs into actionable investment signals.
 
 ## Problem Statement
